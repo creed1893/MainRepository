@@ -3590,10 +3590,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>PublishMultiforce</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>QueryAllFiles</name>
     </userPermissions>
     <userPermissions>
