@@ -3317,10 +3317,6 @@
         <name>InsightsCreateApplication</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>InstallMultiforce</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>LightningConsoleAllowedForUser</name>
     </userPermissions>
