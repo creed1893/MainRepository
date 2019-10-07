@@ -3111,6 +3111,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
+        <name>CreateMultiforce</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
         <name>CreateReportFolders</name>
     </userPermissions>
     <userPermissions>
@@ -3222,10 +3226,6 @@
         <name>EditTopics</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>EinsteinAssistantUser</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>EmailMass</name>
     </userPermissions>
@@ -3312,6 +3312,14 @@
     <userPermissions>
         <enabled>false</enabled>
         <name>InsightsCreateApplication</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
+        <name>InstallMultiforce</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
+        <name>LMOutboundMessagingUserPerm</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -3587,6 +3595,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
+        <name>PublishMultiforce</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>false</enabled>
         <name>QueryAllFiles</name>
     </userPermissions>
     <userPermissions>
@@ -3715,10 +3727,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ViewAllCustomSettings</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ViewAllData</name>
     </userPermissions>
     <userPermissions>
@@ -3788,10 +3796,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewSetup</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>ViewUserPII</name>
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>

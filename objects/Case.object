@@ -253,7 +253,7 @@
     <fields>
         <fullName>Critical_Case__c</fullName>
         <defaultValue>false</defaultValue>
-        <description>testz1234</description>
+        <description>test</description>
         <externalId>false</externalId>
         <label>Critical Case</label>
         <trackFeedHistory>false</trackFeedHistory>
