@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>copado__Branch_Management_Permissions_Manage</members>
+        <members>Asset</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Test_Set</members>
         <name>PermissionSet</name>
     </types>
     <version>46.0</version>
