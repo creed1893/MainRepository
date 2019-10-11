@@ -3780,10 +3780,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ViewUserPII</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>WaveManagePrivateAssetsUser</name>
     </userPermissions>
     <userPermissions>
