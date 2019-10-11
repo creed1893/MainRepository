@@ -3215,10 +3215,6 @@
         <name>EditTopics</name>
     </userPermissions>
     <userPermissions>
-        <enabled>false</enabled>
-        <name>EinsteinAssistantUser</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>true</enabled>
         <name>EmailMass</name>
     </userPermissions>
