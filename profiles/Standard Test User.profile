@@ -3272,10 +3272,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>CreateMultiforce</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>CreateReportFolders</name>
     </userPermissions>
     <userPermissions>
