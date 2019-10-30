@@ -3469,10 +3469,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>InstallMultiforce</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>LMOutboundMessagingUserPerm</name>
     </userPermissions>
     <userPermissions>
