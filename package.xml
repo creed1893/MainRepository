@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case.Origin</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>Case</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
         <members>Test_Set</members>
         <name>PermissionSet</name>
     </types>
