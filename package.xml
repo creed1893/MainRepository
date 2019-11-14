@@ -4,5 +4,9 @@
         <members>Asset__c.Test_Asset__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Standard Test User</members>
+        <name>Profile</name>
+    </types>
     <version>46.0</version>
 </Package>
