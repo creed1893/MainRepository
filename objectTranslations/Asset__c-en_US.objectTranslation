@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>Assets</value>
     </caseValues>
+    <fields>
+        <label><!-- Test Asset --></label>
+        <name>Test_Asset__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

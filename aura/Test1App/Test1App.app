@@ -1,1 +1,3 @@
-(hidden)
+<aura:application >
+	
+</aura:application>
