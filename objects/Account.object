@@ -306,6 +306,7 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
+        <businessStatus>Active</businessStatus>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
