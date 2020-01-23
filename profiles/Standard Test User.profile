@@ -1730,10 +1730,10 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Metric-Metric Layout</layout>
-        <recordType>Metric.Progress</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Metric-Metric Layout</layout>
+        <recordType>Metric.Progress</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>MetricDataLink-Metric Data Link Layout</layout>
@@ -1887,6 +1887,15 @@
         <modifyAllRecords>false</modifyAllRecords>
         <object>AssetTokenEvent</object>
         <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Asset__c</object>
+        <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>false</allowCreate>
