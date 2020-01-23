@@ -1847,6 +1847,15 @@
         <allowDelete>true</allowDelete>
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Asset__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>AuthorizationForm</object>
         <viewAllRecords>false</viewAllRecords>
