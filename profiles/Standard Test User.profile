@@ -2894,10 +2894,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
-        <tab>Test</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>creed__Test</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
