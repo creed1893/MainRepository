@@ -152,13 +152,23 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Test_Asset__c</fullName>
+        <externalId>false</externalId>
+        <label>Test Asset</label>
+        <length>5</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Asset</label>
     <nameField>
         <label>Asset Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Assets</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
