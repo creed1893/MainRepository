@@ -115,6 +115,9 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>IsFullyOptedIn</fullName>
+    </fields>
+    <fields>
         <fullName>IsOptedOut</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -130,6 +133,10 @@
         <fullName>MessagingChannelId</fullName>
         <trackHistory>false</trackHistory>
         <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>MessagingConsentStatus</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>MessagingPlatformKey</fullName>
