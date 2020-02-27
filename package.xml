@@ -6,6 +6,11 @@
     </types>
     <types>
         <members>Top_Accounts_and_Opportunities</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Energy_Consultations_UtilityBar</members>
+        <members>Top_Accounts_and_Opportunities</members>
         <name>FlexiPage</name>
     </types>
     <version>47.0</version>
