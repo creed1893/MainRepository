@@ -12,6 +12,7 @@
     <label>Energy Consultations</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
+    <tabs>Top_Accounts_and_Opportunities</tabs>
     <tabs>standard-Feed</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-Account</tabs>
