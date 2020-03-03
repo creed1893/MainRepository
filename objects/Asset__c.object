@@ -154,11 +154,12 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>Asset</label>
     <nameField>
+        <displayFormat>OF-{0000}</displayFormat>
         <label>Asset Name</label>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Assets</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
