@@ -4,5 +4,9 @@
         <members>Account.Promotion_Digital__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Standard Test User</members>
+        <name>Profile</name>
+    </types>
     <version>48.0</version>
 </Package>
