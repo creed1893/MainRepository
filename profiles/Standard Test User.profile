@@ -81,6 +81,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <custom>true</custom>
+    <customMetadataTypeAccesses>
+        <enabled>true</enabled>
+        <name>Test_Metadata__mdt</name>
+    </customMetadataTypeAccesses>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.AccountNumber</field>
@@ -179,6 +183,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Phone</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Promotion_Digital__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
