@@ -2866,10 +2866,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ViewAllData</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ViewDataLeakageEvents</name>
     </userPermissions>
     <userPermissions>
