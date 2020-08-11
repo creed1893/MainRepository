@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Activity.Mobile__c</members>
-        <members>Activity.Next_Step__c</members>
         <members>Event.Mobile__c</members>
-        <members>Event.Next_Step__c</members>
-        <members>Task.Mobile__c</members>
-        <members>Task.Next_Step__c</members>
         <name>CustomField</name>
     </types>
     <version>49.0</version>
