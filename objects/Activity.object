@@ -113,6 +113,13 @@
         <type>Default</type>
     </actionOverrides>
     <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>Test_Phone__c</fullName>
+        <externalId>false</externalId>
+        <label>Test Phone</label>
+        <required>false</required>
+        <type>Phone</type>
+    </fields>
     <listViews>
         <fullName>AllActivities</fullName>
         <filterScope>Team</filterScope>
