@@ -105,10 +105,6 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
-    <classAccesses>
-        <apexClass>AppleWatchTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
     <custom>true</custom>
     <customMetadataTypeAccesses>
         <enabled>true</enabled>
