@@ -3577,10 +3577,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>creed__Test</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>creed__Test_Custom_App_Page</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
