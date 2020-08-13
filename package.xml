@@ -4,5 +4,9 @@
         <members>Activity.Test_Phone__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Standard Test User</members>
+        <name>Profile</name>
+    </types>
     <version>49.0</version>
 </Package>
