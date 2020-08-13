@@ -3573,10 +3573,6 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
-        <tab>Test_Custom_App_Page</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>Top_Accounts_and_Opportunities</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
